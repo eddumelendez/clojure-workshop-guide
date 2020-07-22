@@ -88,7 +88,3 @@ We will start with a `Hello World`.
 ```clojure
 (in-ns 'clojure-workshop)
 ```
-
-```clojure
-(ns user)
-```

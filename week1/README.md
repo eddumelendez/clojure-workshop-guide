@@ -1,6 +1,6 @@
 # Week 1
 
-Topic:
+Topics:
 
 * Functional Programing Concepts
 * Introduction to Clojure

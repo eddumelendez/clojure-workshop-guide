@@ -88,3 +88,9 @@ We will start with a `Hello World`.
 ```clojure
 (in-ns 'clojure-workshop)
 ```
+
+# Resources
+
+* [A History of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
+* [Learn Clojure - Syntax](https://clojure.org/guides/learn/syntax)
+* [Namespaces](https://clojure.org/reference/namespaces)

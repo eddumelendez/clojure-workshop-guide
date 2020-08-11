@@ -79,13 +79,13 @@ Using anonymous function:
 
 ## Functions with arguments
 
-First, create a namespace `src/workshop/my_namespace.clj`. Inside of the new namespace add the following line:
+First, create a namespace `src/workshop/week2.clj`. Inside of the new namespace add the following line:
 
 ```clojure
-(ns workshop.my-namespace)
+(ns workshop.week2)
 ```
 
-In `repl`, move to other namespace `(ns workshop.my-namespace)`
+In `repl`, move to other namespace `(ns week2)`
 
 ### Print Hello World
 

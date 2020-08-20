@@ -2,7 +2,7 @@
 
 Topics:
 
-* Destrusturing
+* Destructuring
 * if
     - if-let
     - if-not
@@ -29,15 +29,12 @@ Associative
 (def client {:name "Super Co."
              :location "Philadelphia"
              :description "The worldwide leader in plastic tableware."})
-```
-```clojure
+
 (let [{name :name
        location :location
        description :description} client]
   (println name location "-" description))
-```
 
-```clojure
 (let [{:keys [name location description]} client]
   (println name location "-" description))
 ```

@@ -6,7 +6,6 @@ Topics
     - Thread first
     - Thread Last
     - cond->
-    - some->
 * comp
 
 ## Thread macros
